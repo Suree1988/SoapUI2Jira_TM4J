@@ -12,7 +12,7 @@
         "steps": [
           {
             "result": {
-              "duration": 2838498400,
+              "duration": 2740594600,
               "status": "passed"
             },
             "line": 5,
@@ -36,5 +36,43 @@
     "id": "soapui2jira-tm4j",
     "keyword": "Feature",
     "uri": "TM-T1.feature"
+  },
+  {
+    "line": 1,
+    "elements": [
+      {
+        "line": 3,
+        "name": "SoapUI2Jira_TM4J_1",
+        "description": "",
+        "id": "soapui2jira-tm4j-1;soapui2jira-tm4j-1",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 35862100,
+              "status": "passed"
+            },
+            "line": 5,
+            "name": "Integrating Soapui with Test Management for Jira version",
+            "match": {
+              "location": "mySecondSoapUITest.integrating_Soapui_with_Test_Management_for_Jira_version()"
+            },
+            "keyword": "Given "
+          }
+        ],
+        "tags": [
+          {
+            "line": 2,
+            "name": "@TestCaseKey\u003dTM-T2"
+          }
+        ]
+      }
+    ],
+    "name": "SoapUI2Jira_TM4J_1",
+    "description": "",
+    "id": "soapui2jira-tm4j-1",
+    "keyword": "Feature",
+    "uri": "TM-T2.feature"
   }
 ]

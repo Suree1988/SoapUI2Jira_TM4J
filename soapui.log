@@ -1,10 +1,19 @@
-2019-12-27 00:56:28,416 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\suree\soapui-settings.xml]
-2019-12-27 00:56:29,691 INFO  [WsdlProject] Loaded project from [file:/C:/Users/suree/eclipse-workspace/SoapUI2Jira_TM4J/SoapUI_File/CountryInfo-soapui-project.xml]
-2019-12-27 00:56:29,704 WARN  [WsdlProject] Project 'CountryInfo' is from a newer version (5.5.0) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
-2019-12-27 00:56:30,141 INFO  [SoapUITestCaseRunner] Running soapUI tests in project [CountryInfo]
-2019-12-27 00:56:30,144 INFO  [SoapUITestCaseRunner] Running Project [CountryInfo], runType = SEQUENTIAL
-2019-12-27 00:56:30,161 INFO  [SoapUITestCaseRunner] Running soapUI testcase [TestCase 1]
-2019-12-27 00:56:30,161 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
-2019-12-27 00:56:30,494 INFO  [log] Hello Word
-2019-12-27 00:56:30,499 INFO  [SoapUITestCaseRunner] Finished running soapUI testcase [TestCase 1], time taken: 329ms, status: FINISHED
-2019-12-27 00:56:30,500 INFO  [SoapUITestCaseRunner] Project [CountryInfo] finished with status [FINISHED] in 350ms
+2019-12-28 02:03:10,908 INFO  [DefaultSoapUICore] initialized soapui-settings from [C:\Users\suree\soapui-settings.xml]
+2019-12-28 02:03:12,127 INFO  [WsdlProject] Loaded project from [file:/C:/Users/suree/eclipse-workspace/SoapUI2Jira_TM4J/SoapUI_File/CountryInfo-soapui-project.xml]
+2019-12-28 02:03:12,143 WARN  [WsdlProject] Project 'CountryInfo' is from a newer version (5.5.0) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2019-12-28 02:03:12,601 INFO  [SoapUITestCaseRunner] Running soapUI tests in project [CountryInfo]
+2019-12-28 02:03:12,605 INFO  [SoapUITestCaseRunner] Running Project [CountryInfo], runType = SEQUENTIAL
+2019-12-28 02:03:12,617 INFO  [SoapUITestCaseRunner] Running soapUI testcase [TestCase 1]
+2019-12-28 02:03:12,617 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2019-12-28 02:03:12,929 INFO  [log] Hello Word
+2019-12-28 02:03:12,931 INFO  [SoapUITestCaseRunner] Finished running soapUI testcase [TestCase 1], time taken: 306ms, status: FINISHED
+2019-12-28 02:03:12,934 INFO  [SoapUITestCaseRunner] Project [CountryInfo] finished with status [FINISHED] in 322ms
+2019-12-28 02:03:12,942 INFO  [WsdlProject] Loaded project from [file:/C:/Users/suree/eclipse-workspace/SoapUI2Jira_TM4J/SoapUI_File/CountryInfo-soapui-project.xml]
+2019-12-28 02:03:12,942 WARN  [WsdlProject] Project 'CountryInfo' is from a newer version (5.5.0) of soapUI than this (4.0.1) and parts of it may be incompatible or incorrect. Saving this project with this version of soapUI may cause it to function differently.
+2019-12-28 02:03:12,950 INFO  [SoapUITestCaseRunner] Running soapUI tests in project [CountryInfo]
+2019-12-28 02:03:12,950 INFO  [SoapUITestCaseRunner] Running Project [CountryInfo], runType = SEQUENTIAL
+2019-12-28 02:03:12,955 INFO  [SoapUITestCaseRunner] Running soapUI testcase [TestCase 1]
+2019-12-28 02:03:12,955 INFO  [SoapUITestCaseRunner] running step [Groovy Script]
+2019-12-28 02:03:12,971 INFO  [log] Hello Word
+2019-12-28 02:03:12,971 INFO  [SoapUITestCaseRunner] Finished running soapUI testcase [TestCase 1], time taken: 15ms, status: FINISHED
+2019-12-28 02:03:12,972 INFO  [SoapUITestCaseRunner] Project [CountryInfo] finished with status [FINISHED] in 21ms

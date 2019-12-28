@@ -1,9 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <testsuite failures="0" name="cucumber.runtime.formatter.JUnitFormatter" skipped="0"
-           tests="1"
-           time="2.838498">
-   <testcase classname="SoapUI2Jira_TM4J" name="SoapUI2Jira_TM4J" time="2.838498">
+           tests="2"
+           time="2.776457">
+   <testcase classname="SoapUI2Jira_TM4J" name="SoapUI2Jira_TM4J" time="2.740595">
       <system-out>Given Sending test report from SoapUI to JIRA...............................passed
+</system-out>
+   </testcase>
+   <testcase classname="SoapUI2Jira_TM4J_1" name="SoapUI2Jira_TM4J_1" time="0.035862">
+      <system-out>Given Integrating Soapui with Test Management for Jira version..............passed
 </system-out>
    </testcase>
 </testsuite>
